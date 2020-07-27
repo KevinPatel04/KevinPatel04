@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kevin Patel. You can Know more about me on my official blog [kevinpatel.me](https::/kevinpatel.me). 
+You are looking at my GitHub Profile. To Know more about me visit my official portfolio [kevinpatel.me](https::/kevinpatel.me). 
 
 <p align="center"> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KevinPatel04.KevinPatel04" alt="visitor badge"/>
@@ -10,6 +10,8 @@ My name is Kevin Patel. You can Know more about me on my official blog [kevinpat
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL)
   ![Kevin Patel's github stats](https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&hide=issues,prs)
+
+Visit my Blog: [kevinpatel.me/blog](https://kevinpatel.me/blog)
 
 <!-- **KevinPatel04/KevinPatel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
