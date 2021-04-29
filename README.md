@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You are looking at my GitHub Profile. To Know more about me visit my official portfolio [kevinpatel.me](https::/kevinpatel.me). 
+You are looking at my GitHub Profile. To know more about me visit my official portfolio [kevinpatel.me](https::/kevinpatel.me). 
 
 <p align="center"> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KevinPatel04.KevinPatel04" alt="visitor badge"/>
