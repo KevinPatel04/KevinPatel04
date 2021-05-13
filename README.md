@@ -8,8 +8,8 @@ You are looking at my GitHub Profile. To know more about me visit my official po
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL)
-  ![Kevin Patel's github stats](https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&hide=issues,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&hide=TSQL)
+  ![Kevin Patel's github stats](https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 Visit my Blog: [kevinpatel.me/blog](https://kevinpatel.me/blog)
 
