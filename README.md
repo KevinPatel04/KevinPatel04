@@ -14,9 +14,7 @@
  <br><br><br><br><br><br><br>
  
 <p align="center" >
-  <img height="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KevinPatel04&theme=chartreuse-dark">  
-  <img height="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
 </p>
 
 
